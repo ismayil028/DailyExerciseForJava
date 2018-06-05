@@ -24,8 +24,8 @@ public class ChatBot2 extends JFrame implements KeyListener{
 
     String[][] chatBot={
             //standard greetings
-            {"Salam","hey","Ə","gijdillax","duduy"},
-            {"Salam","Əleykə Salam","Təpəsi"},
+            {"Salam","hey","Ə","Bey","muellim"},
+            {"Salam","Əleykə Salam","asd"},
             //question greetings
             {"Necəsən","nətərsən","nağarsan","halin ehvalin"},
             {"Yaxşılıqdı","Belə də pox kimi" , " nemm a"},
