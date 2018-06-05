@@ -28,7 +28,7 @@ public class ChatBot2 extends JFrame implements KeyListener{
             {"Salam","Əleykə Salam","asd"},
             //question greetings
             {"Necəsən","nətərsən","nağarsan","halin ehvalin"},
-            {"Yaxşılıqdı","Belə də pox kimi" , " nemm a"},
+            {"Yaxşılıqdı","Belə də pisem" , " nemm a"},
             //yes
             {"yes"},
             {"no","NO","NO!!!!!!!"},
